@@ -1,2 +1,2 @@
-# codigoemJava(EstruturaDeDados)
-Códigos e exercícios desenvolvidos em Java que estou resolvendo enquanto estou na faculdade, principalmente na parte de estrutura de dados (com o passar do tempo vou ficar atualizando os códigos adicionando novos comandos)
+# Projetos-Da-Faculdade
+Códigos/exercícios que resolvi/estou resolvendo durante a faculdade. (Por hora tem códigos em C, Java e SQL, com o tempo vou aumentando a quantidade/melhorar os códigos)
